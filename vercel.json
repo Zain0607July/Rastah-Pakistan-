@@ -2,11 +2,8 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "/dist/server.cjs"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "/api"
     }
   ]
 }
+
