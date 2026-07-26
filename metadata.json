@@ -1,0 +1,6 @@
+{
+  "name": "Rastah Pakistan",
+  "description": "A university admissions, fee comparison, and career-insight platform for Pakistani students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
